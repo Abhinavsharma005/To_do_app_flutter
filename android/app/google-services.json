@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "128504316950",
+    "project_id": "sampleflutterflow-zw1si4",
+    "storage_bucket": "sampleflutterflow-zw1si4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128504316950:android:8d906cc00892943d38e137",
+        "android_client_info": {
+          "package_name": "com.example.to_do_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEF2OhY4wsuRdpdXwSyv69VZni_2Tqgns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128504316950:android:9d0573c4419a232638e137",
+        "android_client_info": {
+          "package_name": "com.mycompany.sampleflutterflow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEF2OhY4wsuRdpdXwSyv69VZni_2Tqgns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
