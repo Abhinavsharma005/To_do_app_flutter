@@ -1,16 +1,14 @@
-# to_do_app
+📋 To-Do App 
 
-A new Flutter project.
+A modern to-do application built with Flutter and Firebase, featuring:
 
-## Getting Started
+🔐 Email Authentication (Firebase Auth)
 
-This project is a starting point for a Flutter application.
+👤 Onboarding/Profile Setup (Name, Birthday, Profile Image)
 
-A few resources to get you started if this is your first Flutter project:
+✅ Task Management (create, update, mark complete)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+☁️ Cloud Firestore Integration for real-time sync
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🎨 Custom UI designed with Flutter (no FlutterFlow boilerplate)
+
